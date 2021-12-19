@@ -1,6 +1,7 @@
 /*
 This code is a simulation of RAC over time. 
-This code was modified from the original RAC code, which can be found here: http://web.archive.org/web/20120418125739/http://www.boinc-wiki.info/Recent_Average_Credit
+This code was modified from the original RAC code, which can be found here: 
+http://web.archive.org/web/20120418125739/http://www.boinc-wiki.info/Recent_Average_Credit
 */
 
 #include <iostream>
